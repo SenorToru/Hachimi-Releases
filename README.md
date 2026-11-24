@@ -3,7 +3,7 @@
 <h1 align="center">Hachimi 八耳</h1>
 
 <p align="center"><b>From messy thoughts to clear words.</b><br>
-Local voice typing for Windows 11. Free, offline, 30 languages.</p>
+Local voice typing for Windows 10 / 11. Free, offline, 30 languages.</p>
 
 <p align="center"><a href="https://hachimi.meme">hachimi.meme</a> · <a href="https://github.com/SenorToru/Hachimi-Releases/releases/latest">Download</a> · <a href="https://github.com/SenorToru/Hachimi-Releases/issues">Feedback</a></p>
 
@@ -33,7 +33,7 @@ The installer is not code-signed yet, so Windows SmartScreen will warn you the f
 ## 日本語
 
 **散らかる思考に、整う言葉を。**
-Windows 11 用のローカル音声入力です。無料・オフライン・30 言語対応。
+Windows 10 / 11 用のローカル音声入力です。無料・オフライン・30 言語対応。
 
 話すときは考えながら話すので、「えっと」や言い直しが混ざります。八耳はそれを整えて、カーソルのある入力欄にそのまま貼り付けます。
 
@@ -46,7 +46,7 @@ Windows 11 用のローカル音声入力です。無料・オフライン・30 
 ## 简体中文
 
 **碎语成章，出口成理。**
-Windows 11 本机语音输入。免费、离线、30 种语言。
+Windows 10 / 11 本机语音输入。免费、离线、30 种语言。
 
 - **F8 整理**：删掉口头禅，按你的改口只留最后的意思，理成通顺的一段话。
 - **F7 逐字**：只删口头禅、补标点，你说的话一字不改。
@@ -57,7 +57,7 @@ Windows 11 本机语音输入。免费、离线、30 种语言。
 ## 繁體中文
 
 **碎語成章，出口成理。**
-Windows 11 本機語音輸入。免費、離線、30 種語言。
+Windows 10 / 11 本機語音輸入。免費、離線、30 種語言。
 
 - **F8 整理**：刪掉口頭禪，依你的改口只留最後的意思，整理成通順的一段話。
 - **F7 逐字**：只刪口頭禪、補標點，你說的話一字不改。
